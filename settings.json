@@ -1,0 +1,18 @@
+{
+  "db": {
+    "host": "localhost",
+    "user": "your user",
+    "pass": "your password",
+    "database": "instabot"
+  },
+  "instagram": {
+    "user": "your email",
+    "pass": "your password"
+  },
+  "config": {
+    "days_to_unfollow": 7,
+    "likes_over": 900,
+    "check_followers_every": 8555,
+    "hashtags": ["fun","picoftheday", "awesome", "Boston", "photooftheday", "instapic", "happy", "style", "eastcoast", "travel", "lifestyle", "bostonma", "massachusetts"]
+  }
+}
