@@ -1,8 +1,8 @@
 {
   "db": {
     "host": "localhost",
-    "user": "root",
-    "pass": "Holamundo1",
+    "user": "your user",
+    "pass": "your password",
     "database": "instabot"
   },
   "instagram": {
